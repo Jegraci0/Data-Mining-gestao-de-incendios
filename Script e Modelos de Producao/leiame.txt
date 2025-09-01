@@ -1,0 +1,9 @@
+1. Para visualizar a API é necessário instalar o streamlit na pasta do projeto
+	pip install streamlit
+2. Para visualizar o modelo apriori é necessário correr o commando na pasta do projeto
+	pip install apyori
+3. Executar a aplicação app.py:
+Ir para Terminal ou para a linha de comando. 
+Executar o seguinte comando:
+	streamlit run app.py
+
